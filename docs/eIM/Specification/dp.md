@@ -1,0 +1,191 @@
+---
+title: List of SM-DP+ Vendors and Operators Compatible with SIM.Express
+---
+## List of SM-DP+ Vendors and Operators Compatible with SIM.Express
+
+</br>
+<table>
+    <tr>
+        <th style="width: 250px">DP+ vendor</th>
+        <th style="width: 250px">MNO/MVNO</th>
+        <th style="width: 250px">Status</th>
+    </tr>
+    <tr>
+        <td rowspan="7">G+D</td>
+    </tr>
+    <tr>
+        <td>NTT</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Vodafone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>DT</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Swisscom</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Bell Canada</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="4">Eastcompeace</td>
+    </tr>
+    <tr>
+        <td>Vodafone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Truphone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="5">Thales</td>
+    </tr>
+    <tr>
+        <td>Bouygues</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Twilio</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Idemia</td>
+    </tr>
+    <tr>
+        <td>Telia</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Truphone</td>
+    </tr>
+    <tr>
+        <td>Truphone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="24">Redtea Mobile</td>
+    </tr>
+    <tr>
+        <td>MultiBytes</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>MTX</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>CITIC</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>CMHK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>AIS</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>CSL</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>FarEasTone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Roamability</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Knowroaming</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>MTT</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>TATA</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>ShineTown</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Truphone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Mobiphone</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>DTAC</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>BICS</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>IIJ</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>Syniverse</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>LGU+</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>China Mobile</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>China Unicom</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>China Telecom</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td></td>
+    </tr>
+</table>
